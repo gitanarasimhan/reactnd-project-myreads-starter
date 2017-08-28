@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 
 const api = "https://reactnd-books-api.udacity.com"
 
