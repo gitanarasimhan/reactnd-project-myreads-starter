@@ -3,9 +3,9 @@ Final assessment project for Udacity's React Fundamentals course, modified by Gi
 
 ## Setup Instructions
   
-* Download or fork and clone the [Final Git](https://github.com/gitanarasimhan/reactnd-project-myreads-starter.git)    repository.
-* run `npm install` to install the required dependencies.
+* Download or fork and clone the [Final Git](https://github.com/gitanarasimhan/reactnd-project-myreads-starter.git)    repository using `git clone`.
 * Navigate to the folder - `cd reactnd-project-myreads-starter`.
+* run `npm install` to install the required dependencies.
 * run `npm start` or `yarn start` compile & run.
 * The site can be accessed at http://localhost:3000.
 
