@@ -9,7 +9,7 @@ Final assessment project for Udacity's React Fundamentals course, modified by Gi
 * run `npm start` or `yarn start` compile & run.
 * The site can be accessed at http://localhost:3000.
 
-## What Included
+## What's Included
 ```
 +--public/    
  |-- index.html - DO NOT MODIFY
